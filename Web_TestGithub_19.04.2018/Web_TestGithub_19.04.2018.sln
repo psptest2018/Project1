@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_TestGithub_19.04.2018", "Web_TestGithub_19.04.2018\Web_TestGithub_19.04.2018.csproj", "{9779D69F-7656-4436-88B8-74D2007A048B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9779D69F-7656-4436-88B8-74D2007A048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9779D69F-7656-4436-88B8-74D2007A048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9779D69F-7656-4436-88B8-74D2007A048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9779D69F-7656-4436-88B8-74D2007A048B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
